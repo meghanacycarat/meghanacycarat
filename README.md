@@ -12,17 +12,17 @@
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="[https://linkedin.com/in/meghana-mj](https://www.linkedin.com/in/meghana-mj-967173302/)" target="_blank">
+  <a href="https://www.linkedin.com/in/meghana-mj-967173302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://tryhackme.com/p/meghana](https://tryhackme.com/p/h20meghana.mj)" target="_blank">
+  <a href="https://tryhackme.com/p/h20meghana.mj" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  
-  <a href="[https://play.picoctf.org/meghanamj189]" target="_blank">
+  <a href="https://play.picoctf.org/users/meghanamj189" target="_blank">
     <img src="https://img.shields.io/badge/PicoCTF-0DCAF0?style=for-the-badge&logo=picoctf&logoColor=white" alt="PicoCTF">
   </a>
 </p>
+
 
 ---
 
