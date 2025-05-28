@@ -63,7 +63,17 @@
 
 ---
 
-![Holopin Badges](https://holopin.me/meghanacycarat)
+
+<p align="left">
+  <a href="https://www.credly.com/badges/3f7f2b84-140c-4721-b63d-66aaefb19b1f" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/1c6e4f2b-3a50-4a84-911e-9e6f46673c5f/image.png" alt="Introduction to Cybersecurity" width="100"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/8be07329-e152-4772-9589-50b3947b996c" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/c79e5f96-b6c8-4ac7-9d79-5d66e6d9befc/image.png" alt="Cybersecurity Essentials" width="100"/>
+  </a>
+</p>
+
 
 ---
 
